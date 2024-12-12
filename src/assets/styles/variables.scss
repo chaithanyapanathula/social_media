@@ -1,0 +1,40 @@
+/* variables.scss */
+/* Color Variables */
+$primary-color: #007bff;
+/* Primary color for buttons, links, and highlights */
+$secondary-color: #6c757d;
+/* Secondary color for less important elements */
+$background-color: #f8f9fa;
+/* Default background color for the app */
+$header-color: #999;
+/* Header background color */
+$gradient-start: #555;
+/* Gradient start color */
+$gradient-end: #999;
+/* Gradient end color */
+
+/* Typography Variables */
+$font-size-base: 16px;
+/* Base font size for text */
+$font-size-large: 18px;
+/* Font size for larger text elements */
+$line-height-base: 1.5;
+/* Base line height for text */
+
+/* Border Variables */
+$border-color: #ccc;
+/* Default border color */
+$border-radius: 4px;
+/* Default border radius */
+
+/* Spacing Variables */
+$spacing-small: 8px;
+/* Small spacing for margins and paddings */
+$spacing-medium: 16px;
+/* Medium spacing */
+$spacing-large: 24px;
+/* Large spacing */
+
+/* Shadow Variables */
+$box-shadow-default: 0 2px 4px rgba(0, 0, 0, 0.1);
+/* Default box shadow */
