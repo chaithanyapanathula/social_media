@@ -1,8 +1,6 @@
 import Vue from 'vue';
 import App from './App.vue';
 import store from './store'; // Import Vuex store
-import './assets/styles/base.css';
-import './assets/styles/components.scss';
 
 Vue.config.productionTip = false;
 

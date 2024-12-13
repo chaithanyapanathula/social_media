@@ -2,13 +2,13 @@ const path = require('path');
 
 module.exports = {
   // Configure Webpack to resolve @ as the src directory
-  configureWebpack: {
-    resolve: {
-      alias: {
-        '@': path.resolve(__dirname, 'src'), // Alias @ to src
-      },
-    },
-  },
+  // configureWebpack: {
+  //   resolve: {
+  //     alias: {
+  //       '@': path.resolve(__dirname, 'src'), // Alias @ to src
+  //     },
+  //   },
+  // },
 
   // CSS loader options for global SCSS variables and mixins
   css: {
